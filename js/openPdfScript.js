@@ -66,6 +66,209 @@ $(document).ready(function() {
         }
     });
 
+
+    $("#Febread2021").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/February2021.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/February2021.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Marread2021").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/March2021.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/March2021.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+
+    $("#April2021").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/April2021.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/April2021.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
     $("#Janread").flipBook({
         //Layout Setting
         pdfUrl: 'pdf/Jan.pdf',
@@ -869,8 +1072,6 @@ $(document).ready(function() {
             url: "https://mca-techedge.github.io/news/index.html"
         }
     });
-
-
 
 
 })
