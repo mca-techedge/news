@@ -1074,4 +1074,1219 @@ $(document).ready(function() {
     });
 
 
+
+    $("#Julread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/July_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/July_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Augread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/August_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/August_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Sepread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/September_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/September_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Octread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/October_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/October_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Novread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/November_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/November_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Decread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/December_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/December_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+
+    $("#Janread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/January_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/January_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+
+    
+    $("#Febread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/February1_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/February1_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Febread2_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/February2_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/February2_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Febread3_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/February3_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/February3_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Marread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/March1_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/March1_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Marread2_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/March2_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/March2_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Marread3_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/March3_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/March3_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Aprread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/April1_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/April1_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    $("#Aprread2_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/April2_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/April2_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+
+    $("#Aprread3_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/April3_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/April3_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+
+    $("#Mayread1_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/May1_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/May1_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+    
+    $("#Mayread2_2019").flipBook({
+        //Layout Setting
+        pdfUrl: 'pdf/2019/May2_2019.pdf',
+        lightBox: true,
+        layout: 3,
+        currentPage: {
+            vAlign: "bottom",
+            hAlign: "left"
+        },
+        // BTN SETTING
+        btnShare: {
+            enabled: false
+        },
+        btnPrint: {
+            hideOnMobile: true
+        },
+        btnDownloadPages: {
+            enabled: false,
+            title: "Download pages",
+            icon: "fa-download",
+            icon2: "file_download",
+            url: "images/pdf/2019/May2_2019.rar",
+            name: "allPages.zip",
+            hideOnMobile: false
+        },
+        btnColor: 'rgb(255,120,60)',
+        sideBtnColor: 'rgb(255,120,60)',
+        sideBtnSize: 60,
+        sideBtnBackground: "rgba(0,0,0,.7)",
+        sideBtnRadius: 60,
+        btnSound: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        btnAutoplay: {
+            vAlign: "top",
+            hAlign: "left"
+        },
+        // SHARING
+        btnShare: {
+            enabled: true,
+            title: "Share",
+            icon: "fa-share-alt"
+        },
+        facebook: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        google_plus: {
+            enabled: false
+        },
+        email: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html",
+            title: "PDF KPK",
+            description: "Silahkan click link di bawah untuk melihat / mengunduf pdf"
+        },
+        twitter: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        },
+        pinterest: {
+            enabled: true,
+            url: "https://mca-techedge.github.io/news/index.html"
+        }
+    });
+
+
+
 })
