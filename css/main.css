@@ -8,6 +8,13 @@
 .navbar-menu{
     background-color: black;
 }
+.team-image{
+    width:150px;
+    height:150px;
+}
+.team-member-details{
+    margin-top:60px;
+}
 @media only screen and (max-width: 600px) {
     .logo{
         width: 33px;
@@ -20,5 +27,8 @@
     }
     .heading-text .heading-subtext{
         font-size: 15px;;
+    }
+    .team-member-details{
+        margin-top:35px;
     }
 }
