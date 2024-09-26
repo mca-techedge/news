@@ -1,1 +1,1 @@
-# news
+# collage technical news letter
